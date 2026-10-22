@@ -19,7 +19,7 @@ jobs:
       - name: Checkout RangelLab
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.JSLYNK_PAGES_TOKEN }}
+          token: ${{ secrets.RANGELLAB_PAGES_TOKEN }}
           path: pages
 
       - name: Checkout Routine
@@ -27,7 +27,7 @@ jobs:
         with:
           repository: jeffersonrcs-cmd/Routine
           ref: main
-          token: ${{ secrets.JSLYNK_PAGES_TOKEN }}
+          token: ${{ secrets.RANGELLAB_PAGES_TOKEN }}
           path: source
 
       - name: Setup Node.js
@@ -45,8 +45,6 @@ jobs:
         run: npm run build -- --base=/routine/
 
       - name: Publish Routine
-        env:
-          GH_TOKEN: ${{ secrets.JSLYNK_PAGES_TOKEN }}
         run: |
           set -euo pipefail
 
