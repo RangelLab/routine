@@ -1,5 +1,63 @@
 [
   {
+    "version": "1.0.7",
+    "date": "2026-10-23",
+    "timestamp": "2026-10-23T18:41:22.229Z",
+    "title": "Fix auth client defaults for hosted build",
+    "changes": [
+      "Fix auth client defaults for hosted build",
+      "Describe auth defaults for deployment",
+      "Allow deployment with default auth config"
+    ]
+  },
+  {
+    "version": "1.0.6",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T22:06:28.028Z",
+    "title": "Add central Supabase URL fallback",
+    "changes": [
+      "Add central Supabase URL fallback"
+    ]
+  },
+  {
+    "version": "1.0.5",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T21:41:49.273Z",
+    "title": "Configure Routine PWA icon",
+    "changes": [
+      "Configure Routine PWA icon",
+      "Set Routine app and iOS touch icon"
+    ]
+  },
+  {
+    "version": "1.0.4",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T21:40:55.151Z",
+    "title": "Add Routine home check app icon",
+    "changes": [
+      "Add Routine home check app icon"
+    ]
+  },
+  {
+    "version": "1.0.3",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T21:37:57.397Z",
+    "title": "Alterações no commit e8d81e9e5924b3fc0095208320266240706705f8: Tela login",
+    "changes": [
+      "Alterações no commit e8d81e9e5924b3fc0095208320266240706705f8: Tela login"
+    ]
+  },
+  {
+    "version": "1.0.2",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T21:32:10.132Z",
+    "title": "Alterações no commit cb0176be3357140815fae7eca100157fa14e375c: Ajustes",
+    "changes": [
+      "Alterações no commit cb0176be3357140815fae7eca100157fa14e375c: Ajustes",
+      "Alterações no commit 8bfcd83baef130542bf73ef1a82e0c2d392b4859: Fix button"
+    ]
+  },
+  {
     "version": "1.0.1",
     "date": "2026-10-22",
     "timestamp": "2026-10-22T21:26:01.153Z",
