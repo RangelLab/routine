@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.0.8",
+    "date": "2026-10-23",
+    "timestamp": "2026-10-23T18:51:56.417Z",
+    "title": "Ajuste login",
+    "changes": [
+      "Ajuste login",
+      "Keep app header below iOS status bar"
+    ]
+  },
+  {
     "version": "1.0.7",
     "date": "2026-10-23",
     "timestamp": "2026-10-23T18:41:22.229Z",
