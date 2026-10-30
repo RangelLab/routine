@@ -1,5 +1,25 @@
 [
   {
+    "version": "2.0.1",
+    "date": "2026-10-30",
+    "timestamp": "2026-10-30T20:55:20.524Z",
+    "title": "Polish workspace-specific labels and demo behavior",
+    "changes": [
+      "Polish workspace-specific labels and demo behavior",
+      "Align migration filenames with applied database versions",
+      "Add personal workspace migration",
+      "Add personal workspace security migration",
+      "Add build validation for pull requests",
+      "Clear workspace data during context switches",
+      "Remove untriggered preview-only workflow",
+      "Fix Supabase nullable client narrowing in build",
+      "Make today's tasks the primary home screen focus",
+      "Emphasize pending tasks and de-emphasize completed tasks",
+      "Make home task list dominant with full-width task cards",
+      "Redesign Routine visual identity and task dashboard"
+    ]
+  },
+  {
     "version": "2.0.0",
     "date": "2026-10-30",
     "timestamp": "2026-10-30T20:00:00.000Z",
