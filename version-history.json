@@ -1,5 +1,15 @@
 [
   {
+    "version": "2.0.2",
+    "date": "2026-10-30",
+    "timestamp": "2026-10-30T21:54:48.556Z",
+    "title": "Configure project and dev environment",
+    "changes": [
+      "Configure project and dev environment",
+      "Restore package lockfile for npm ci"
+    ]
+  },
+  {
     "version": "2.0.1",
     "date": "2026-10-30",
     "timestamp": "2026-10-30T20:55:20.524Z",
