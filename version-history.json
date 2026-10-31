@@ -1,5 +1,21 @@
 [
   {
+    "version": "2.0.5",
+    "date": "2026-10-30",
+    "timestamp": "2026-10-30T23:54:00.580Z",
+    "title": "Compact header and solid safe-area background",
+    "changes": [
+      "Compact header and solid safe-area background",
+      "Set initial solid status bar theme color",
+      "Match status bar color to app surface",
+      "Lower mobile header without reducing its height",
+      "Keep iOS status bar area covered while scrolling",
+      "Pin status-bar cover to app shell above scrolling content",
+      "Rename Marina to Sara",
+      "Extend sticky header surface behind iOS status bar"
+    ]
+  },
+  {
     "version": "2.0.4",
     "date": "2026-10-30",
     "timestamp": "2026-10-30T22:22:07.851Z",
