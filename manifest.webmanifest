@@ -1,16 +1,21 @@
 {
-  "name": "Routine by Borges & Rangel",
+  "name": "Routine — by Borges & Rangel",
   "short_name": "Routine",
-  "description": "Rotinas simples para sua casa.",
-  "lang": "pt-BR",
+  "description": "Organização pessoal e compartilhada de tarefas e rotinas.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#171e19",
-  "theme_color": "#171e19",
+  "background_color": "#24221f",
+  "theme_color": "#24221f",
   "icons": [
     {
-      "src": "./routine-icon.svg",
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
